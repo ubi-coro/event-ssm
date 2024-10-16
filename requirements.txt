@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-jax[cuda12]
+jax[cpu]
 flax
 jaxtyping
 optax
@@ -9,3 +9,4 @@ torchaudio
 wandb
 tonic
 hydra-core
+seaborn
